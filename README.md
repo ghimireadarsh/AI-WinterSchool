@@ -46,7 +46,7 @@ _________________________________
 >> #### [Image Stitching using OpenCV](Day-1/Image_stitching)
 >>> ##### [Lecture Slide](Day-1/Image_stitching/Intro_to_CV_Python.pptx)
 >>> ##### [Notebook for Image stitching](Day-1/Image_stitching/ImageStitching.ipynb)
-> ### Day 2
+> ### [Day 2](Day-2)
 >> #### [Introduction to AI and Machine Learning](Day-2/AI_ML_Intro/Suresh-AI-ML-Intro-extended.pdf)
 >> #### [Artificial Curiosity by Karl Friston](Day-2/KeyNotes/Artificial_curiosity_(AI)_KarlFriston.pptx)
 >> #### [Image Representation](Day-2/Image_representation)
@@ -54,11 +54,16 @@ _________________________________
 >>> 2. ##### [Face Recognition using Eigen Faces](Day-2/Image_representation/Face_Recognition_Using_Eigenfaces.pdf)
 >>> 3. ##### [Face Recognition Lab note](Day-2/Image_representation/Lab_Eigenfaces_notes.pdf)
 >>> 4. ##### [Face Recognition steps notes](Day-2/Image_representation/steps_for_face_recognition.pdf)
->>> 5. ##### [Pytorch Introductory Notebook](Day-2/Tutorial/Intro_to_pytorch.ipynb)
->>> 6. ##### [Face Recognition Lab Notebook](Day-2/Image_representation/Face_Recognition_Lab_Session.ipynb)
+>>> 5. ##### [Face Recognition Lab Notebook](Day-2/Image_representation/Face_Recognition_Lab_Session.ipynb)
 >> #### [Autoencoders with MNIST dataset Notebook](Day-2/AI_ML_Intro/Autoencoders_with_MNIST_dataset.ipynb)
 >> #### [Denoising with Autoencoders Notebook](Day-2/AI_ML_Intro/Denoising_with_autoencoders.ipynb)
-> ### Day 3
+> ### [Day 3](Day-3)
+>> #### [Geometric Deep Learning by Michael Bronstein](Day-3/)
+>> #### [Deep Learning](Day-3/DeepLearning)
+>>> #####[Fundamentals](Day-3/DeepLearning/Deep_Learning_Fundamentals.pdf)
+>>> ##### [Optimization](Day-3/DeepLearning/Optimization_General.pdf)
+>> #### [Lab](Day-3/Tutorial)
+>>> ##### [Neural Network Basics](Day-3/Tutorial/Intro_to_pytorch.ipynb)
 > ### Day 4
 > ### Day 5
 > ### Day 6
