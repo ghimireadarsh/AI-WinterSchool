@@ -29,7 +29,6 @@ _________________________________
 >>> 1. ##### [AI and Society Slide](Day-1/AI_and_Society/AI_society_slide.pdf) 
 >>> 2. ##### [Group Assignments](Day-1/AI_and_Society/Group_assignments.xlsx)
 >>> 3. ##### [Group Discussion Questions](Day-1/AI_and_Society/Group_questions)
->>>> i. [Questions](Day-1/AI_and_Society/Group_questions/Group_Discussion_Questions.html)
 >> #### [Python, Numpy and Pandas Basics](Day-1/PythonNumpyPandas)
 >>> ##### [Python Introduction](Day-1/PythonNumpyPandas/Python_Intro)
 >>>> 1. [Hello World](Day-1/PythonNumpyPandas/Python_Intro/Hello_Pokhara.ipynb)
