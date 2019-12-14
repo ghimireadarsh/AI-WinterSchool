@@ -60,11 +60,21 @@ _________________________________
 > ### [Day 3](Day-3)
 >> #### [Geometric Deep Learning by Michael Bronstein](Day-3/)
 >> #### [Deep Learning](Day-3/DeepLearning)
->>> #####[Fundamentals](Day-3/DeepLearning/Deep_Learning_Fundamentals.pdf)
+>>> ##### [Fundamentals](Day-3/DeepLearning/Deep_Learning_Fundamentals.pdf)
 >>> ##### [Optimization](Day-3/DeepLearning/Optimization_General.pdf)
 >> #### [Lab](Day-3/Tutorial)
 >>> ##### [Neural Network Basics](Day-3/Tutorial/Intro_to_pytorch.ipynb)
-> ### Day 4
+> ### [Day 4](Day-4)
+>> #### [Convolutional Neural Network](Day-4/CNN-Introduction.pptx)
+>> #### [Probability](Day-4/Probability)
+>>> 1. ##### [Probability Lecture slide](Day-4/Probability/Probability_Statistics.pdf)
+>>> 2. ##### [Probability Cheat Sheet](Day-4/Probability/probability_cheat_sheet.pdf)
+>>> 3. ##### [Problem set 1](Day-4/Probability/ProblemSet1.docx)
+>>> 4. ##### [Problem set 2](Day-4/Probability/ProblemSet2.doc)
+>> #### [Lab](Day-4/Lab_CNN)
+>>> [Instructions for Lab](Day-4/Lab_CNN/Instructions_CNN.docx)
+>>> [Lab sample exercise](Day-4/Lab_CNN/CNN_classification_exercise.py)
+>>> [Lab Notebook](Day-4/Lab_CNN/Day4_CNN.ipynb)
 > ### Day 5
 > ### Day 6
 > ### Day 7
