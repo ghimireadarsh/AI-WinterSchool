@@ -22,7 +22,8 @@ Major topics that are covered in this Winter School are as follows:
 * Medical Informatics by __Bishesh, Taman, Sharib__
 * Bioinformatics by __Maria__
 _________________________________
-
+Note : * _Please feel free to fork and update the contents. I will be very happy to receive updates and upgrades._
+__________________________________
 ## Outline
 > ### [Day 1](Day-1)
 >> #### [AI and Society](Day-1/AI_and_Society)
