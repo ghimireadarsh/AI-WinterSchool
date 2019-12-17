@@ -11,10 +11,10 @@ Major topics that are covered in this Winter School are as follows:
 * [Deep Learning](Day-3/DeepLearning), Variational Auto Encoder and Generative Adversarial Network by [Danda Pani Paudel](https://www.vision.ee.ethz.ch/en/members/detail/323/).
 * [Convolutional Neural Networks](Day-4/CNN-Introduction.pptx) and 3D Vision by [Ajad Chatkuli](https://www.vision.ee.ethz.ch/en/members/detail/349/).
 * [Probability, Statistics](Day-4/Probability/Probability_Statistics.pdf) and Graphical Models by [Samrachana Adhikari](https://med.nyu.edu/faculty/samrachana-adhikari) _from NYU_.
-* Object Detection and Uncertainity by __Sreyasha__.
-* Computational Neuroscience - Convolution in the brain by __Chris Pack__.
+* [Object Detection and Uncertainity](Day-5/ObjectDetection-Uncertainty/ObjectDetectionAndUncertainty.pdf) by __Sreyasha__.
+* [Computational Neuroscience - Convolution in the brain](Day-5/ComputationalNeuroscience/Chris_Pack_AI_School_Lecture_2019.pptx) by [Chris Pack](https://www.mcgill.ca/bbme/christopher-pack).
 * Computational Neuroscience - Primate visual systems: Learning to see without a teacher by __Ehud Zohary__.
-* Reinforcement Learning by __Florian__.
+* Reinforcement Learning by __Florian Golem__.
 * Quantum Machine Learning by __Chahan__.
 * Robotic Vision (SLAM) by __Suman__.
 * AI and Ethics by __Juliane__ 
@@ -78,6 +78,13 @@ __________________________________
 >>> 2. ##### [Lab sample exercise for CNN](Day-4/Lab_CNN/CNN_classification_exercise.py)
 >>> 3. ##### [Lab Notebook for CNN exercise](Day-4/Lab_CNN/Day4_CNN.ipynb)
 > ### Day 5
+>> #### [Bayesian Machine Learning](Day-5/BayesianML/BayesianML.pdf)
+>> #### [Object Detection and Uncertainity](Day-5/ObjectDetection-Uncertainty/ObjectDetectionAndUncertainty.pdf)
+>> #### [Computational Neuro Science - Convolution in Brain](Day-5/ComputationalNeuroscience/Chris_Pack_AI_School_Lecture_2019.pptx)
+>> #### [Lab on Neuro Science](Day-5/VisualRFLab.doc)
+>>> 1. ##### [Lab Instruction Doc](Day-5/VisualRFLab.doc)
+>>> 2. ##### [Lab Instruction Code](Day-5/compneuroAISchool.py)
+>>> 3. ##### [Lab in Notebook](Day-5/Lab.ipynb)
 > ### Day 6
 > ### Day 7
 > ### Day 8
