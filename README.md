@@ -13,8 +13,8 @@ Major topics that are covered in this Winter School are as follows:
 * [Probability, Statistics](Day-4/Probability/Probability_Statistics.pdf) and Graphical Models by [Samrachana Adhikari](https://med.nyu.edu/faculty/samrachana-adhikari) _from NYU_.
 * [Object Detection and Uncertainity](Day-5/ObjectDetection-Uncertainty/ObjectDetectionAndUncertainty.pdf) by __Sreyasha__.
 * [Computational Neuroscience - Convolution in the brain](Day-5/ComputationalNeuroscience/Chris_Pack_AI_School_Lecture_2019.pptx) by [Chris Pack](https://www.mcgill.ca/bbme/christopher-pack).
-* Computational Neuroscience - Primate visual systems: Learning to see without a teacher by __Ehud Zohary__.
-* Reinforcement Learning by __Florian Golem__.
+* Computational Neuroscience - Primate visual systems: Learning to see without a teacher by [Ehud Zohary](https://elsc.huji.ac.il/faculty-staff/ehud-zohary).
+* Reinforcement Learning by [Florian Golem](https://fgolemo.github.io/).
 * Quantum Machine Learning by __Chahan__.
 * Robotic Vision (SLAM) by __Suman__.
 * AI and Ethics by __Juliane__ 
