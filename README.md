@@ -86,6 +86,12 @@ __________________________________
 >>> 2. ##### [Lab Instruction Code](Day-5/compneuroAISchool.py)
 >>> 3. ##### [Lab in Notebook](Day-5/Lab.ipynb)
 > ### Day 6
+>> #### [AI in Education](Day-6/AI_in_Education/AI_in_Education.pdf)
+>> #### [Causality of AI in Education](Day-6/AI_in_Education/AIED_Causality.pdf)
+>> #### [Graphical Models](Day-6/Graphical-Models)
+>>> 1. ##### [Hierarchial Models](Day-6/Graphical-Models/HierarchicalModels.pdf)
+>> #### Lab
+>>> 1. ##### [Reinforcement Learning Lab on Pendulum](https://hackmd.io/@shoddy-robots/B12Gm5VRB)
 > ### Day 7
 > ### Day 8
 > ### Day 9
