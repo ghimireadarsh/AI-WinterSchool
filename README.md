@@ -14,7 +14,7 @@ Major topics that are covered in this Winter School are as follows:
 * [Object Detection and Uncertainity](Day-5/ObjectDetection-Uncertainty/ObjectDetectionAndUncertainty.pdf) by __Sreyasha__.
 * [Computational Neuroscience - Convolution in the brain](Day-5/ComputationalNeuroscience/Chris_Pack_AI_School_Lecture_2019.pptx) by [Chris Pack](https://www.mcgill.ca/bbme/christopher-pack).
 * Computational Neuroscience - Primate visual systems: Learning to see without a teacher by [Ehud Zohary](https://elsc.huji.ac.il/faculty-staff/ehud-zohary).
-* Reinforcement Learning by [Florian Golem](https://fgolemo.github.io/).
+* [Reinforcement Learning](https://docs.google.com/presentation/d/1tEtOb27QxRmXkOuTFMGIM9oCGrnGCz6CLgK7R2YoqVs/edit?usp=sharing) by [Florian Golem](https://fgolemo.github.io/).
 * Quantum Machine Learning by __Chahan__.
 * Robotic Vision (SLAM) by __Suman__.
 * AI and Ethics by __Juliane__ 
@@ -90,6 +90,9 @@ __________________________________
 >> #### [Causality of AI in Education](Day-6/AI_in_Education/AIED_Causality.pdf)
 >> #### [Graphical Models](Day-6/Graphical-Models)
 >>> 1. ##### [Hierarchial Models](Day-6/Graphical-Models/HierarchicalModels.pdf)
+>> #### [Reinforcement Learning by Florian Golem](Day-6/Reinforcement-Learning)
+>>> 1. [Lecture slide by Florian Golem with animation](https://docs.google.com/presentation/d/1tEtOb27QxRmXkOuTFMGIM9oCGrnGCz6CLgK7R2YoqVs/edit?usp=sharing)
+>>> 2. [Lecture slide by Florian Golem without animation](Day-6/Reinforcement-Learning/slides-with-animation.txt)
 >> #### Lab
 >>> 1. ##### [Reinforcement Learning Lab on Pendulum](https://hackmd.io/@shoddy-robots/B12Gm5VRB)
 > ### Day 7
