@@ -1,6 +1,7 @@
 .venv/
 .ipynb_checkpoints/
 .idea/
+.DS_Store
 Day-3/Geometric_Deep_Learning_by_Michael_Bronstein.pdf
 Day-5/ComputationalNeuroscience/Zohary_The_human_visual_system.pptx
 Day-4/Lab_CNN/STL-10/
