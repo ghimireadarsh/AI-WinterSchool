@@ -6,20 +6,31 @@
 Major topics that are covered in this Winter School are as follows:
 
 * [AI and Machine Learning](Day-2/AI_ML_Intro/Suresh-AI-ML-Intro-extended.pdf), Bayesian Machine Learning, Natural Language Processing by [Prof. Suresh Manandhar](https://scholar.google.co.uk/citations?user=5iH8GVIAAAAJ) from University of York.
+
 * [Artificial Curiosity](Day-2/KeyNotes/Artificial_curiosity_(AI)_KarlFriston.pptx) by [Prof. Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) _from University College London_.
+
 * [Geometric Deep Learning by](Day-3/Geometric_Deep_Learning_by_Michael_Bronstein.pdf) [Prof. Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) _from Imperial College London_.
-* [Deep Learning](Day-3/DeepLearning), Variational Auto Encoder and Generative Adversarial Network by [Danda Pani Paudel](https://www.vision.ee.ethz.ch/en/members/detail/323/).
+
+* [Deep Learning](Day-3/DeepLearning), [Variational Auto Encoder and Generative Adversarial Network](Day-10/DistributionLearning--GANs.pdf) by [Danda Pani Paudel](https://www.vision.ee.ethz.ch/en/members/detail/323/).
+
 * [Convolutional Neural Networks](Day-4/CNN-Introduction.pptx) and [3D Vision](Day-9/3DVision.pptx) by [Ajad Chatkuli](https://www.vision.ee.ethz.ch/en/members/detail/349/).
-* [Probability, Statistics](Day-4/Probability/Probability_Statistics.pdf) and Graphical Models by [Samrachana Adhikari](https://med.nyu.edu/faculty/samrachana-adhikari) _from NYU_.
+
+* [Probability, Statistics](Day-4/Probability/Probability_Statistics.pdf) and [Graphical Models](Day-6/Graphical-Models) by [Samrachana Adhikari](https://med.nyu.edu/faculty/samrachana-adhikari) _from NYU_.
+
 * [Object Detection and Uncertainity](Day-5/ObjectDetection-Uncertainty/ObjectDetectionAndUncertainty.pdf) by __Sreyasha__.
+
 * [Computational Neuroscience - Convolution in the brain](Day-5/ComputationalNeuroscience/Chris_Pack_AI_School_Lecture_2019.pptx) by [Chris Pack](https://www.mcgill.ca/bbme/christopher-pack).
+
 * [Computational Neuroscience - Primate visual systems: Learning to see without a teacher](https://drive.google.com/file/d/1qA4gEhyeYKdDKZmLq35lNjLsgykl9LEs/view?usp=sharing) by [Ehud Zohary](https://elsc.huji.ac.il/faculty-staff/ehud-zohary).
+
 * [Reinforcement Learning](https://docs.google.com/presentation/d/1tEtOb27QxRmXkOuTFMGIM9oCGrnGCz6CLgK7R2YoqVs/edit?usp=sharing) by [Florian Golem](https://fgolemo.github.io/).
-* Quantum Machine Learning by __Chahan__.
-* Robotic Vision (SLAM) by __Suman__.
-* AI and Ethics by __Juliane__ 
+* [Quantum Machine Learning](Day-10/QuantumMachineLearning_QML/NepalWinterSchool2019_QuantumMachineLearning.pdf) by __Chahan Kropf__.
+* [Robotic Vision (SLAM)](Day-10/SLAM_Suman_Second_Nepal_Winter_School_in_AI.pdf) by __Suman__.
+
+* [AI and Ethics](Day-4/NepalWinterSchool2019_AI&Ethics.pdf) by __Juliane klatt__ 
+
 * [AI and Society](Day-1/AI_and_Society/AI_society_slide.pdf) by __Dovan Rai__.
-* Medical Informatics by __Bishesh, Taman, Sharib__
+* [Medical Informatics](https://docs.google.com/presentation/d/1J9_KmUgmNiRahjlCeovelBriuoaEF6IuWhnU3oK85K0/edit?usp=sharing) by __Bishesh, Taman, Sharib__
 * Bioinformatics by __Maria__
 _________________________________
 Note : * _Please feel free to fork and update the contents. I will be very happy to receive updates and upgrades._
@@ -91,6 +102,7 @@ __________________________________
 >> #### [Causality of AI in Education](Day-6/AI_in_Education/AIED_Causality.pdf)
 >> #### [Graphical Models](Day-6/Graphical-Models)
 >>> 1. ##### [Hierarchial Models](Day-6/Graphical-Models/HierarchicalModels.pdf)
+>>> 1. ##### [Graphical Models](Day-6/Graphical-Models/GraphicalModels.pdf)
 >> #### [Reinforcement Learning by Florian Golem](Day-6/Reinforcement-Learning)
 >>> 1. ##### [Lecture slide by Florian Golem with animation](https://docs.google.com/presentation/d/1tEtOb27QxRmXkOuTFMGIM9oCGrnGCz6CLgK7R2YoqVs/edit?usp=sharing)
 >>> 2. ##### [Lecture slide by Florian Golem without animation](Day-6/Reinforcement-Learning/slides-with-animation.txt)
@@ -101,4 +113,8 @@ __________________________________
 >> #### [NLP Introduction by Ashutosh Modi](https://drive.google.com/file/d/1TQKuvgyBzxyYwkWXOgBLB3iFlxN218-7/view?usp=sharing)
 > ### [Day 9](Day-9)
 >> #### [3D Vision by Ajad Chatkuli](Day-9/3DVision.pptx)
-> ### Day 10
+> ### [Day 10](Day-10)
+>> #### [VAE and GAN by Danda Pani Poudel](Day-10/DistributionLearning--GANs.pdf)
+>> #### [SLAM by Suman Raj Bista](Day-10/SLAM_Suman_Second_Nepal_Winter_School_in_AI.pdf)
+>> #### [Quantum Machine Learning by Chanan Kropf](Day-10/QuantumMachineLearning_QML/NepalWinterSchool2019_QuantumMachineLearning.pdf)
+

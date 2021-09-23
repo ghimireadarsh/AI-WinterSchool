@@ -1,0 +1,1 @@
+Medical Imaging by Bishesh Khanal slide can be found [here](https://docs.google.com/presentation/d/1J9_KmUgmNiRahjlCeovelBriuoaEF6IuWhnU3oK85K0/edit?usp=sharing) because the size of file is too big.
