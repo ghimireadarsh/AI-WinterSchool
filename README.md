@@ -9,7 +9,7 @@ Major topics that are covered in this Winter School are as follows:
 * [Artificial Curiosity](Day-2/KeyNotes/Artificial_curiosity_(AI)_KarlFriston.pptx) by [Prof. Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston) _from University College London_.
 * [Geometric Deep Learning by](Day-3/Geometric_Deep_Learning_by_Michael_Bronstein.pdf) [Prof. Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) _from Imperial College London_.
 * [Deep Learning](Day-3/DeepLearning), Variational Auto Encoder and Generative Adversarial Network by [Danda Pani Paudel](https://www.vision.ee.ethz.ch/en/members/detail/323/).
-* [Convolutional Neural Networks](Day-4/CNN-Introduction.pptx) and 3D Vision by [Ajad Chatkuli](https://www.vision.ee.ethz.ch/en/members/detail/349/).
+* [Convolutional Neural Networks](Day-4/CNN-Introduction.pptx) and [3D Vision](Day-9/3DVision.pptx) by [Ajad Chatkuli](https://www.vision.ee.ethz.ch/en/members/detail/349/).
 * [Probability, Statistics](Day-4/Probability/Probability_Statistics.pdf) and Graphical Models by [Samrachana Adhikari](https://med.nyu.edu/faculty/samrachana-adhikari) _from NYU_.
 * [Object Detection and Uncertainity](Day-5/ObjectDetection-Uncertainty/ObjectDetectionAndUncertainty.pdf) by __Sreyasha__.
 * [Computational Neuroscience - Convolution in the brain](Day-5/ComputationalNeuroscience/Chris_Pack_AI_School_Lecture_2019.pptx) by [Chris Pack](https://www.mcgill.ca/bbme/christopher-pack).
@@ -99,5 +99,5 @@ __________________________________
 > ### Day 7
 > ### Day 8
 > ### [Day 9](Day-9)
->> #### [3D Vision](Day-9/3DVision.pptx)
+>> #### [3D Vision by Ajad Chatkuli](Day-9/3DVision.pptx)
 > ### Day 10
