@@ -97,7 +97,8 @@ __________________________________
 >> #### Lab
 >>> 1. ##### [Reinforcement Learning Lab on Pendulum](https://hackmd.io/@shoddy-robots/B12Gm5VRB)
 > ### Day 7
-> ### Day 8
+> ### [Day 8](Day-8)
+>> #### [NLP Introduction by Ashutosh Modi](https://drive.google.com/file/d/1TQKuvgyBzxyYwkWXOgBLB3iFlxN218-7/view?usp=sharing)
 > ### [Day 9](Day-9)
 >> #### [3D Vision by Ajad Chatkuli](Day-9/3DVision.pptx)
 > ### Day 10
